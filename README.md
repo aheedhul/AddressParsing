@@ -1,4 +1,5 @@
 Custom NER Model for Address Parsing Using spaCy
+
 This project demonstrates how to train a custom Named Entity Recognition (NER) model using the spaCy library to extract address components from structured text. The NER model identifies specific entities such as Door Number, Street, Area, District, and Pincode from addresses.
 
 Features
