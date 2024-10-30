@@ -1,0 +1,842 @@
+[
+    {
+        "text": "121, Baker street, Broadway, Chennai- 600001",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 16,
+                "label": "STREET"
+            },
+            {
+                "start": 18,
+                "end": 25,
+                "label": "AREA"
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "22, Mason street, Kodambakkam, Chengalpattu- 600021",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 15,
+                "label": "STREET"
+            },
+            {
+                "start": 17,
+                "end": 28,
+                "label": "AREA"
+            },
+            {
+                "start": 30,
+                "end": 43,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 45,
+                "end": 51,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "12, hello street, North California, USA- 600210",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 15,
+                "label": "STREET"
+            },
+            {
+                "start": 17,
+                "end": 32,
+                "label": "AREA"
+            },
+            {
+                "start": 34,
+                "end": 50,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 52,
+                "end": 58,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "55, cambridge Street, Lost, london- 563637",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 16,
+                "label": "STREET"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "label": "AREA"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "88, Kuruku Street, Sowcarpet, Chennai- 612122",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 16,
+                "label": "STREET"
+            },
+            {
+                "start": 18,
+                "end": 27,
+                "label": "AREA"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "567, Armenian street, george town, Kanya Kumari- 719382",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "label": "STREET"
+            },
+            {
+                "start": 20,
+                "end": 31,
+                "label": "AREA"
+            },
+            {
+                "start": 33,
+                "end": 46,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 48,
+                "end": 54,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "77, arcot Road street, kodambakkam, chennai- 600024",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 14,
+                "label": "STREET"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "label": "AREA"
+            },
+            {
+                "start": 29,
+                "end": 37,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 39,
+                "end": 45,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "444, usman road, T nagar, Thirunelveli- 768968",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 15,
+                "label": "STREET"
+            },
+            {
+                "start": 17,
+                "end": 24,
+                "label": "AREA"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 41,
+                "end": 47,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "100, Adengappa Street, Koviloothu, Thuthukudi- 323232",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 22,
+                "label": "STREET"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "label": "AREA"
+            },
+            {
+                "start": 36,
+                "end": 47,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 49,
+                "end": 55,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "776, new street, nungambakkam, nagerkoil- 563718",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 13,
+                "label": "STREET"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "label": "AREA"
+            },
+            {
+                "start": 31,
+                "end": 41,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "label": "PINCODE"
+            }
+        ]
+    },
+    {
+        "text": "89, Gandhi Road, Velachery, Chennai, 600042",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 15,
+                "label": "STREET"
+            },
+            {
+                "start": 17,
+                "end": 26,
+                "label": "AREA"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "47, MG Nagar, T. Nagar, Chennai, 600017",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 12,
+                "label": "STREET"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "label": "AREA"
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "56, Anna Salai ,  Saidapet, Chennai, 600015",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 14,
+                "label": "STREET"
+            },
+            {
+                "start": 18,
+                "end": 26,
+                "label": "AREA"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "23, Poonamallee High Road, Kilpauk, Chennai, 600010",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 25,
+                "label": "STREET"
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "label": "AREA"
+            },
+            {
+                "start": 36,
+                "end": 43,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 45,
+                "end": 51,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "78, Cathedral Road, Nungambakkam, Chennai, 600034",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 18,
+                "label": "STREET"
+            },
+            {
+                "start": 20,
+                "end": 32,
+                "label": "AREA"
+            },
+            {
+                "start": 34,
+                "end": 41,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "30, ECR Road, Thiruvanmiyur, Chennai, 600041",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 12,
+                "label": "STREET"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "label": "AREA"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "64, Mount Road,: Guindy, Chennai, 600032",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 14,
+                "label": "STREET"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "label": "AREA"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "5, Nandanam Extension, Mylapore, Chennai, 600004",
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 3,
+                "end": 21,
+                "label": "STREET"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "label": "AREA"
+            },
+            {
+                "start": 33,
+                "end": 40,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "88 , Besant Avenue, Besant Nagar, Chennai, 60090",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 18,
+                "label": "STREET"
+            },
+            {
+                "start": 20,
+                "end": 32,
+                "label": "AREA"
+            },
+            {
+                "start": 34,
+                "end": 41,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "35 , Venkata Street, Mambalam, Chennai, 600033",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "label": "STREET"
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "label": "AREA"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "110 , Rajaji Road, Perambur, Chennai, 600011",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 6,
+                "end": 17,
+                "label": "STREET"
+            },
+            {
+                "start": 19,
+                "end": 27,
+                "label": "AREA"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "52, RK Salai, Mandaveli, Chennai, 600028",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 12,
+                "label": "STREET"
+            },
+            {
+                "start": 14,
+                "end": 23,
+                "label": "AREA"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "76, Chamiers Road, Alwarpet, Chennai, 600013",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 17,
+                "label": "STREET"
+            },
+            {
+                "start": 19,
+                "end": 27,
+                "label": "AREA"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "22, Luz Church Road, Mylapore, Chennai, 600004",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 19,
+                "label": "STREET"
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "label": "AREA"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "8, Sterling Road, Nungambakkam, Chennai, 600034",
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 3,
+                "end": 16,
+                "label": "STREET"
+            },
+            {
+                "start": 18,
+                "end": 30,
+                "label": "AREA"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 41,
+                "end": 47,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "94, Gandhi Nagar, Adyar, Chennai, 600020",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 16,
+                "label": "STREET"
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "label": "AREA"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "50, Ranganathan Street, T. Nagar, Chennai, 600017",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 22,
+                "label": "STREET"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "label": "AREA"
+            },
+            {
+                "start": 34,
+                "end": 41,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "label": "PINCODE "
+            }
+        ]
+    },
+    {
+        "text": "17, Anna Nagar East, Anna Nagar, Chennai, 600102",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "DOOR_NO"
+            },
+            {
+                "start": 4,
+                "end": 19,
+                "label": "STREET"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "label": "AREA"
+            },
+            {
+                "start": 33,
+                "end": 40,
+                "label": "DISTRICT"
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "label": "PINCODE "
+            }
+        ]
+    }
+]
