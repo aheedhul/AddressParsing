@@ -27,6 +27,10 @@ Make sure you have the following installed on your system:
     ```bash
     python -c "import spacy; print(spacy.__version__)"
 
+**Note:**
+The training json file should have examples that are diverse, so that it can recognise wide range of address format.
+
+
 ## Usage
 ### Training the Model
 1. Ensure merged_annotations.json is in the same directory as train_model.py.
